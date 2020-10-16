@@ -5,4 +5,16 @@
  *  express prior written consent of Murex and subject to the applicable Murex licensing terms. Any modification or removal of this copyright notice is expressly prohibited.
  */
 public class BowlingGame {
+
+    //~ ----------------------------------------------------------------------------------------------------------------
+    //~ Methods 
+    //~ ----------------------------------------------------------------------------------------------------------------
+
+    public void roll(int pins) {
+
+    }
+
+    public int score() {
+        return 0;
+    }
 }
